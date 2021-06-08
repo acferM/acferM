@@ -52,6 +52,8 @@
 
 # Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acferM&title_color=FFFFFF&text_color=DDDCDA&bg_color=1B1B1F" />
+<div align="center" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acferM&title_color=FFFFFF&text_color=DDDCDA&bg_color=1B1B1F" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=acferM&count_private=true&show_icons=true&include_all_commits=true&title_color=FFFFFF&icon_color=DDDCDA&text_color=DDDCDA&bg_color=1B1B1F" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acferM&count_private=true&show_icons=true&include_all_commits=true&title_color=FFFFFF&icon_color=DDDCDA&text_color=DDDCDA&bg_color=1B1B1F" />
+</div>
