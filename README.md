@@ -28,6 +28,7 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
@@ -50,10 +51,32 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Learning Skills
+
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Chakraui](https://img.shields.io/badge/Chakra--ui-81E6D9?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### skills i'm interested
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Graphql](https://img.shields.io/badge/Graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
 # Github Stats
 
-<div align="center" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acferM&title_color=FFFFFF&text_color=DDDCDA&bg_color=1B1B1F" />
+<img src="https://github-profile-trophy.vercel.app/?username=acferm&theme=dracula" alt="acferm" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acferM&count_private=true&show_icons=true&include_all_commits=true&title_color=FFFFFF&icon_color=DDDCDA&text_color=DDDCDA&bg_color=1B1B1F" />
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acferM&theme=dracula" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=acferM&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acferm&theme=dracula" alt="acferm" />
