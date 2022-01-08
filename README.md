@@ -84,3 +84,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=acferM&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acferm&theme=dracula" alt="acferm" />
+
+![Snake](https://github.com/acferM/acferM/blob/output/github-snake.svg)
