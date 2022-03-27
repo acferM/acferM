@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with `Any kind of software development` and `Instructing people`
 - 💬 Ask me about `JavaScript` and `Unity`
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: I don't like `Java☕`🤐
 
 <div align='center'>
 📫 How to reach me:
