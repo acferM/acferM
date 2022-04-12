@@ -4,18 +4,18 @@
 </h1>
 
 - 🔭 I’m currently looking for my first job.
-- 🌱 I’m currently learning `ReactJS`, `ReactNative`, `NodeJS` and `Unity`.
+- 🌱 I’m currently learning `Python` and `Operational Systems`.
 - 👯 I’m looking to collaborate on fullstack apps and games.
 - 🤔 I’m looking for help with `Any kind of software development` and `Instructing people`
 - 💬 Ask me about `JavaScript` and `Unity`
 - 😄 Pronouns: Him/His
+- ⚡ Fun fact: I like to train dogs 🐺
 
 <div align='center'>
 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-acfer-de-fran%C3%A7a-silva-a7b7941b2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/acferzin/)
-[![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:promacfer@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acferm/)
+[![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:promacfer@gmail.com)](mailto:promacfer@gmail.com)
 </div>
 
 ---
@@ -23,6 +23,7 @@
 ### Top Languages and Tools:
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
@@ -31,7 +32,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/Prismic-3F4A56?style=for-the-badge&logo=prismic&logoColor=white)
+![Prismic](https://img.shields.io/badge/Prismic-3F4A56?style=for-the-badge&logo=prismic&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
@@ -53,6 +54,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ### Learning Skills
 
@@ -63,14 +65,19 @@
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Chakraui](https://img.shields.io/badge/Chakra--ui-81E6D9?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Graphql](https://img.shields.io/badge/Graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### skills i'm interested
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Graphql](https://img.shields.io/badge/Graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ---
 
