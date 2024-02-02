@@ -3,8 +3,8 @@
   I'm Matheus Acfer
 </h1>
 
-- 🔭 I’m currently looking for my first job.
-- 🌱 I’m currently learning `Python` and `Operational Systems`.
+- 🔭 I’m currently looking for new job opportunites.
+- 🌱 I’m currently learning `NextJS`.
 - 👯 I’m looking to collaborate on fullstack apps and games.
 - 🤔 I’m looking for help with `Any kind of software development` and `Instructing people`
 - 💬 Ask me about `JavaScript` and `Unity`
