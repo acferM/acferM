@@ -4,10 +4,9 @@
 </h1>
 
 - 🔭 I’m currently looking for new job opportunites.
-- 🌱 I’m currently learning `NextJS`.
+- 🌱 I’m currently learning `Software Architecture`.
 - 👯 I’m looking to collaborate on fullstack apps and games.
-- 🤔 I’m looking for help with `Any kind of software development` and `Instructing people`
-- 💬 Ask me about `JavaScript` and `Unity`
+- 💬 Ask me about `JavaScript` and `React`
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I like to train dogs 🐺
 
